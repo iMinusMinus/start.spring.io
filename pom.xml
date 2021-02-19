@@ -22,7 +22,7 @@
 	</properties>
 
 	<modules>
-		<module>start-client</module>
+		<!--<module>start-client</module>-->
 		<module>start-site</module>
 	</modules>
 
@@ -39,6 +39,7 @@
 		<profile>
 			<id>full</id>
 			<modules>
+				<module>start-client</module>
 				<module>start-site-verification</module>
 			</modules>
 		</profile>

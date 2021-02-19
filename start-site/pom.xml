@@ -38,11 +38,11 @@
 			<artifactId>initializr-actuator</artifactId>
 		</dependency>
 
-		<dependency>
-			<groupId>io.spring.start</groupId>
-			<artifactId>start-client</artifactId>
-			<scope>runtime</scope>
-		</dependency>
+		<!--<dependency>-->
+			<!--<groupId>io.spring.start</groupId>-->
+			<!--<artifactId>start-client</artifactId>-->
+			<!--<scope>runtime</scope>-->
+		<!--</dependency>-->
 
 		<dependency>
 			<groupId>javax.cache</groupId>
